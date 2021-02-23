@@ -1,0 +1,29 @@
+Q1: For the first question in this assignment, enter the type of the Python expression 3.14159 below.  Remember that capitalization is important. 
+A1: float
+
+Q2: An if statement can have at most how many else parts?
+A2: 0
+
+Q3: Refer Q3 sol.py
+A3: None
+
+Q4: In Python, what character always appears at the end of the line before the start of an indented block of code?
+A4: ":"
+
+Q5: Which of the following expressions returns the last character in the non-empty string my_string?
+A5: my_string[len(my_string) - 1]
+
+Q6: What is the primary difference between a list and a tuple?
+A6: Lists are mutable. Tuples are immutable.
+
+Q7: Refer Q7 sol.py
+A7: 3
+
+Q8: Which of the following Python expressions is a valid key in a Python dictionary?
+A8: "", False, None (All immutable datatypes)
+
+Q9: Refer Q9 sol.py
+A9: 101902
+
+Q10: Refer Q10 sol.py
+A10: -60 75
